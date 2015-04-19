@@ -1,0 +1,14 @@
+#This is done by twitter API v1.1
+
+#Getting a users timeline data. 
+#The new Twitter API require API authontication. (OAuth)
+
+########################################################
+Quick Start
+--------------------------------------------------------
+1. Create an app from https://apps.twitter.com/
+2. Get the Consumer key, Consumer Secret Key, API key and API secret
+3. Put the relevants keys in the tweets_json.php file in a specified place
+4. Host the three files in the server 
+5. Hurray! You Got the Data from on your timeline.
+#########################################################
